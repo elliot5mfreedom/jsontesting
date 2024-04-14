@@ -1,0 +1,39 @@
+﻿[
+    {
+      "Number": 1,
+      "de or het": "de",
+      "Dutch Word": "de mens",
+      "English Translation": "the person"
+    },
+    {
+      "Number": 2,
+      "de or het": "de",
+      "Dutch Word": "de familie",
+      "English Translation": "the family"
+    },
+    {
+      "Number": 3,
+      "de or het": "het",
+      "Dutch Word": "het gezin",
+      "English Translation": "the household"
+    },
+    {
+      "Number": 4,
+      "de or het": "de",
+      "Dutch Word": "de vader",
+      "English Translation": "the father"
+    },
+    {
+      "Number": 5,
+      "de or het": "de",
+      "Dutch Word": "de moeder",
+      "English Translation": "the mother"
+    },
+    {
+      "Number": 6,
+      "de or het": "het",
+      "Dutch Word": "het kind",
+      "English Translation": "the child"
+    }
+    // Add the rest of the entries in a similar manner
+  ]
